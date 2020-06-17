@@ -1,0 +1,27 @@
+{
+  "name": "crazy-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "prequest": "^1.0.0",
+    "vk-io": "^4.0.0-rc.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "12.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamer11/Crazy-Bot---.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamer11/Crazy-Bot---/issues"
+  },
+  "homepage": "https://github.com/hamer11/Crazy-Bot---#readme"
+}
